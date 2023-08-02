@@ -24,6 +24,7 @@ Create a machine learning pipeline for prediction
 
 
 Part 3 Evaluate the Model
+
 Evaluate the model using relevant metrics
 
 
